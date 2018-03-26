@@ -18,6 +18,8 @@ After forking to yourself, go to Settings and rename project "my-website" or som
 
 #### Clone locally, edit the package.json and what's in repo
 
+TODO: duplicate not fork: https://help.github.com/articles/duplicating-a-repository/
+
 ```
 cd ~
 git clone https://github.com/<you>/my-website.git
